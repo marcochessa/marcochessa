@@ -40,6 +40,6 @@
 
 ## 📊&nbsp;GitHub&nbsp;Statistics
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcochessa\&hide=issues\&show_icons=true\&rank_icon=github\&theme=react)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcochessa\&hide=issues\&show_icons=true\&rank_icon=github\&theme=react\&hide_border=true)
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcochessa&layout=compact&langs_count=8&theme=react&hide_border=true)
