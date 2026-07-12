@@ -4,10 +4,10 @@
 
 ## 👨🏻‍💻&nbsp; About Me
 
-- 📚 Currently pursuing a Cybersecurity Master's Degree in Italy to become a computer engineer with a love for crafting elegant solutions to complex problems.
-- 🔭 I'm passionate about technology, with a particular interest in web development. I'm constantly looking for new challenges and opportunities to improve my technical skills and expand my knowledge.
-- 💡 Enthusiastic about exploring cybersecurity and automotive security in depth.
-- 🌱 Actively learning Python, Kotlin and Rust
+- 🎓 Graduated with a Master's Degree in Cybersecurity in Italy, passionate about solving complex engineering challenges.
+- 💼 Currently working in the OT Cybersecurity field, applying cybersecurity principles to industrial environments.
+- 🔭 Passionate about technology, with a particular interest in cybersecurity and web development.
+- 💡 Interested in OT/ICS security, secure software development, and exploring emerging cybersecurity techniques.
 
 📫 How to reach me:
 <p align="left">
@@ -36,10 +36,3 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse,clion,vscode,idea,androidstudio,arduino,postman,figma,illustrator,git,github,gitlab,md,latex,gradle,docker,matlab&perline=9)](https://skillicons.dev)
 
 </details>
-
-
-## 📊&nbsp;GitHub&nbsp;Statistics
-
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcochessa\&hide=issues\&show_icons=true\&rank_icon=github\&theme=react\&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcochessa&layout=compact&langs_count=8&theme=react&hide_border=true)
