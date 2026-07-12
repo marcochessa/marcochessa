@@ -35,9 +35,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse,clion,vscode,idea,androidstudio,arduino,postman,figma,illustrator,git,github,gitlab,md,latex,gradle,docker,matlab&perline=9)](https://skillicons.dev)
 
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark)
-![IEC 62443](https://img.shields.io/badge/IEC%2062443-OT%20Cybersecurity-orange?style=for-the-badge)
-![Claroty](https://img.shields.io/badge/Claroty-OT%20Security-red?style=for-the-badge)
-![Tenable](https://img.shields.io/badge/Tenable-Vulnerability%20Management-purple?style=for-the-badge)
-![Qualys](https://img.shields.io/badge/Qualys-Security%20Assessment-green?style=for-the-badge)
 </details>
