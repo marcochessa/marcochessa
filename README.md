@@ -5,9 +5,9 @@
 ## 👨🏻‍💻&nbsp; About Me
 
 - 🎓 Graduated with a Master's Degree in Cybersecurity in Italy, passionate about solving complex engineering challenges.
-- 💼 Currently working in the OT Cybersecurity field, applying cybersecurity principles to industrial environments.
-- 🔭 Passionate about technology, with a particular interest in cybersecurity and web development.
-- 💡 Interested in OT/ICS security, secure software development, and exploring emerging cybersecurity techniques.
+- 💼 Currently working in the OT Security field, applying security principles to industrial environments.
+- 🔭 Passionate about technology, with a particular interest in secure software development and web technologies.
+- 💡 Exploring OT/ICS security, industrial networks, and emerging techniques to protect critical infrastructures.
 
 📫 How to reach me:
 <p align="left">
